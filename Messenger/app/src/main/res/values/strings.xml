@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Messenger</string>
-    <string name="send">Send Message</string>
-    <string name="create_message_label">Send a message</string>
-    <string name="receive_message_label">Received a message</string>
-    <string name="ok">OK</string>
-</resources>
